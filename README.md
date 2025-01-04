@@ -8,6 +8,7 @@ A list of awesome researchers and papers about data race detecton.
   - [Hybird](#hybird)
   - [Alias Analysis](#alias-analysis)
 - [Industrial Practices](#industrial-practices)
+- [Other Repos](#other-repos)
 - [Contribute](#contribute)
 
 
@@ -53,7 +54,14 @@ A list of awesome researchers and papers about data race detecton.
 # Industrial Practices
 
 - [Google Threadsanitizer](https://github.com/google/sanitizers/wiki/threadsanitizercppmanual)
+
+# Other Repos
+This contains static analysis and symbolic execution etc. related websites.
+
+- [Symbolic Execution](https://github.com/data-storage-lab/Symbolic-Execution?tab=readme-ov-file)
+- [Static Analysis](https://github.com/analysis-tools-dev/static-analysis?tab=readme-ov-file)
 - 
+
 ---
 # Contribute
 This is an active repository and your contributions are always welcome! Do not hesitate to create pull requests.
